@@ -3,8 +3,8 @@ Exploring, experimenting, and building creative projects in the field of Artific
 
 ## Motive 👩‍💻
 - As we all know how fast our tech world is evolving rapidly- from system codes to software, everything is advancing with each passing day but one of the most revolutionary shifts we are witnessing is the rise of AI.
-- AI has became one of the most fascinating feild in today's world. From **SIRI** and **Google Assistent** to **Self-driving cars** etc are becoming a seamless part of everyday life.
-- I am deeply curious and excited about the future of AI-- not because of it's growing demands but because of the innovation and imagination behind it.I would love to keep learning and applying what I know in real-world projects and would love to contribute meaningfully to this evolving tech world.🌐
+- AI has became one of the most fascinating field in today's world. From **SIRI** and **Google Assistent** to **Self-driving cars** etc are becoming a seamless part of everyday life.
+- I am deeply curious and excited about the future of AI-- not because of it's growing demands but because of the innovation and imagination behind it. I would love to keep learning and applying what I know in real-world projects and would love to contribute meaningfully to this evolving tech world.🌐
 
 ## Cerifications 🏅
 - 👩‍💻 **Introduction to Artificial Intelligence** - [simplilearn/09-07-2025]
